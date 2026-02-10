@@ -66,4 +66,4 @@ Hotel PMS, Property Management System, Vacation Rental PMS, Channel Manager App,
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nobedscom/YOUR_REPO.git
+git clone https://github.com/nobedscom/NoBeds-PMS.git
