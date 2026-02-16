@@ -18,7 +18,7 @@ NoBeds PMS is a modern **hotel management system** and **vacation rental managem
 - Direct bookings
 
 The iOS app acts as a simple native wrapper for the web platform:  
-👉 https://nobeds.app
+👉 https://nobeds.com
 
 ---
 
